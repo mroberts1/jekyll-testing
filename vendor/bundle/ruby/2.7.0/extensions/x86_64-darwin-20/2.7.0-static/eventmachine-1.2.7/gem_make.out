@@ -1,0 +1,16 @@
+current directory: /Users/dokoissho/GitHub/jekyll-testing/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/dokoissho/.rubies/ruby-2.7.3/bin/ruby -I /Users/dokoissho/.rubies/ruby-2.7.3/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210627-75810-s9t3e5.rb extconf.rb
+creating Makefile
+
+current directory: /Users/dokoissho/GitHub/jekyll-testing/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= clean
+
+current directory: /Users/dokoissho/GitHub/jekyll-testing/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\=
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/dokoissho/GitHub/jekyll-testing/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= install
+/usr/local/bin/ginstall -c -m 0755 fastfilereaderext.bundle ./.gem.20210627-75810-1mmyv3t

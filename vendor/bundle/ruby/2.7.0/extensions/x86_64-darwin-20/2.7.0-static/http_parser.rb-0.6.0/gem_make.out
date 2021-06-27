@@ -1,0 +1,16 @@
+current directory: /Users/dokoissho/GitHub/jekyll-testing/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/Users/dokoissho/.rubies/ruby-2.7.3/bin/ruby -I /Users/dokoissho/.rubies/ruby-2.7.3/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210627-75810-gv7q8f.rb extconf.rb
+creating Makefile
+
+current directory: /Users/dokoissho/GitHub/jekyll-testing/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= clean
+
+current directory: /Users/dokoissho/GitHub/jekyll-testing/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\=
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/dokoissho/GitHub/jekyll-testing/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= install
+/usr/local/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20210627-75810-1xa45cz
